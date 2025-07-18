@@ -1,0 +1,2 @@
+-A Binary gap is a number of '0's that occur in a number in it's binary format.
+-This task requires an algorithm that will determine the largest sequence of binary gaps for a positive integer N.
